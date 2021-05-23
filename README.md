@@ -1,6 +1,15 @@
 # twitterbot-video
 This is the repo that corrosponds with my upcoming youtube video.
 
+### Project status
+
+- [X] Create github
+- [ ] Create video
+- [ ] Edit video
+- [ ] edit github
+- [ ] post video
+- [ ] success and fame
+
 See the video at:
 - [Youtube link](youtube.com)
 
@@ -16,7 +25,7 @@ In the video i go over a few thing like:
 
 this project is by no means perfect but i enjoyed making it and i hope you can learn a little from me along the way. Feel free to suggest changes or shoot me an email at [my email](mailto:joshua.himmens@gmail.com) or even if you want more content
 
-# links to uesful resources:
+## links to uesful resources:
 
 link to git from qoute guy
 
@@ -32,7 +41,7 @@ twillio docs
 
 python docs
 
-# Getting started:
+## Getting started:
 
 This is what you need to run for the tweepy package:
 
