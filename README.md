@@ -1,6 +1,7 @@
 # twitterbot-video
 This is the repo that corrosponds with my upcoming youtube video.
 
+In this prjoect you are going to create a twitter bot hosted in the cloud that sounds out a tweet everyday with an attached qoute. Then send you a confirmation text/email
 ### Project status
 
 - [X] Create github
@@ -13,19 +14,24 @@ This is the repo that corrosponds with my upcoming youtube video.
 See the video at:
 - [Youtube link](youtube.com)
 
-In the video i go over a few thing like:
-- setting up a twitter bot
-- working with tweepy
-- getting notified of tweets
-- handeling errors
-- sending texts with twillio
-- handelling json files
-- using crontab
-- the bare bones of linode and VPS's in general
+####What do you need to know: (prerequisite knowledge)
+- How to install an IDE
+- How to install python on your local machine
 
-this project is by no means perfect but i enjoyed making it and i hope you can learn a little from me along the way. Feel free to suggest changes or shoot me an email at [my email](mailto:joshua.himmens@gmail.com) or even if you want more content
 
-## links to uesful resources:
+####In the video I go over a few things like:
+- Setting up a Twitter bot
+- Working with tweepy
+- Getting notified of tweets
+- Handling errors
+- Sending texts with Twilio
+- Handling json files
+- Using crontab
+- The bare bones of linode and VPS's in general
+
+this project is by no means perfect, but I enjoyed making it and i hope you can learn a little from me along the way. Feel free to suggest changes or shoot me an email at [my email](mailto:joshua.himmens@gmail.com) or even if you want more content
+
+## links to useful resources:
 
 link to git from qoute guy
 
@@ -51,4 +57,4 @@ If you want to also to use twillio:
 
     pip install tweepy
 
-If you are using the pycharm IDE you wont need to use iether, follow the steps shown in the video
+If you are using the pycharm IDE you won't need to use either, follow the steps shown in the video to import the modules.
