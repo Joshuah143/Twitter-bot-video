@@ -1,5 +1,5 @@
-# twitterbot-video
-This is the repo that corrosponds with my upcoming youtube video.
+# Twitterbot-video
+###### This is the repo that corrosponds with my upcoming youtube video.
 
 In this prjoect you are going to create a twitter bot hosted in the cloud that sounds out a tweet everyday with an attached qoute. Then send you a confirmation text/email
 ### Project status
@@ -11,7 +11,7 @@ In this prjoect you are going to create a twitter bot hosted in the cloud that s
 - [ ] post video
 - [ ] success and fame
 
-See the video at:
+#### See the video at:
 - [Youtube link](youtube.com)
 
 ####What do you need to know: (prerequisite knowledge)
