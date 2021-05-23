@@ -14,12 +14,12 @@ In this prjoect you are going to create a twitter bot hosted in the cloud that s
 #### See the video at:
 - [Youtube link](youtube.com)
 
-####What do you need to know: (prerequisite knowledge)
+#### What do you need to know: (prerequisite knowledge)
 - How to install an IDE
 - How to install python on your local machine
 
 
-####In the video I go over a few things like:
+#### In the video I go over a few things like:
 - Setting up a Twitter bot
 - Working with tweepy
 - Getting notified of tweets
