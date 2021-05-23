@@ -50,3 +50,5 @@ This is what you need to run for the tweepy package:
 If you want to also to use twillio:
 
     pip install tweepy
+
+If you are using the pycharm IDE you wont need to use iether, follow the steps shown in the video
