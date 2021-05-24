@@ -1,5 +1,5 @@
 # Twitterbot-video
-###### This is the repo that corresponds with my upcoming youtube video.
+###### This is the repo that corresponds with my upcoming YouTube video.
 
 In this prjoect you are going to create a twitter bot hosted in the cloud with Tweepy, Linode, and Twilio that sounds out a tweet everyday with an attached qoute. Then send you a confirmation text/email
 ### Project status:
@@ -37,7 +37,7 @@ In this prjoect you are going to create a twitter bot hosted in the cloud with T
 - Using crontab
 - The bare bones of linode and VPS's in general
 
-This project is by no means perfect, but I enjoyed making it and I hope you can learn a little from me along the way.
+This project is by no means perfect, but I enjoyed making it, and I hope you can learn a little from me along the way.
 Feel free to suggest changes or shoot me an email at [joshua.himmens@gmail.com](mailto:joshua.himmens@gmail.com)
 or even if you want more content
 
@@ -46,13 +46,13 @@ or even if you want more content
 - [Create Twilio account](https://www.twilio.com/try-twilio)
 - [Create a Twitter account:](https://twitter.com/i/flow/signup)
 - [Create a Twitter dev account:](https://developer.twitter.com/en/apply-for-access)
-- [Jetbrains IDE downlaod:](https://www.jetbrains.com/pycharm/)
+- [Jetbrains IDE download:](https://www.jetbrains.com/pycharm/)
 - [Create Linode account](https://linode.com/)
 
 
 ## links to useful resources:
 
-- Source of the qoutes: [Github repo](https://github.com/sumanto/goodreads-quotes/blob/master/quotes.json)
+- Source of the quotes: [Github repo](https://github.com/sumanto/goodreads-quotes/blob/master/quotes.json)
 - Link to tweepy docs: [Docs.tweepy.org](https://docs.tweepy.org/en/latest/index.html)
 - Link to real python tweepy guide: [Real python](https://realpython.com/twitter-bot-python-tweepy/)
 - Link to Twitter api docs: [Twitter.com](https://developer.twitter.com/en/docs)
@@ -89,4 +89,4 @@ If you are using the pycharm IDE you won't need to use either, follow the steps 
 
 If you are able to come up with some cool projects or want advice on this one feel free to shoot me an email at
 [joshua.himmens@gmail.com](mailto:joshua.himmens@gmail.com)
-I really enjoyed making this and I would love nothing more than an email from somebody who actually followed along <3.
+I really enjoyed making this, and I would love nothing more than an email from somebody who actually followed along <3.
