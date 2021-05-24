@@ -2,7 +2,7 @@
 ###### This is the repo that corrosponds with my upcoming youtube video.
 
 In this prjoect you are going to create a twitter bot hosted in the cloud with Tweepy, Linode, and Twilio that sounds out a tweet everyday with an attached qoute. Then send you a confirmation text/email
-### Project status
+### Project status:
 
 - [X] Create github
 - [ ] Create video(s)
@@ -13,6 +13,7 @@ In this prjoect you are going to create a twitter bot hosted in the cloud with T
 
 #### See the full video at:
 - [Youtube link](jfcom.ca)
+
 #### Video planning (with links to sub videos):
 - [ ] [Installing pycharm](youtube.com)
 - [ ] [Create files and enviroment](youtube.com)
@@ -60,11 +61,11 @@ this project is by no means perfect, but I enjoyed making it and i hope you can 
 
 This is what you need to run for the tweepy package:
 
-    pip install tweepy or smt
+    pip install tweepy
     
 If you want to also to use twillio:
 
-    pip install tweepy
+    pip install twilio
 
 If you are using the pycharm IDE you won't need to use either, follow the steps shown in the video to import the modules.
 
