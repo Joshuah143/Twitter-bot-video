@@ -15,8 +15,8 @@ In this prjoect you are going to create a twitter bot hosted in the cloud with T
 - [Youtube link](jfcom.ca)
 
 #### Video planning (with links to sub videos):
-- [ ] [Installing pycharm](youtube.com)
-- [ ] [Create files and enviroment](youtube.com)
+- [X] [Installing pycharm](youtube.com)
+- [X] [Create files and enviroment](youtube.com)
 - [ ] [Plan/send tweet](youtube.com)
 - [ ] [Send email/text function](youtube.com)
 - [ ] [Put it all together](youtube.com)
@@ -45,6 +45,7 @@ this project is by no means perfect, but I enjoyed making it and i hope you can 
 - [Create a Twitter account:](https://twitter.com/i/flow/signup)
 - [Create a Twitter dev account:](https://developer.twitter.com/en/apply-for-access)
 - [Jetbrains IDE downlaod:](https://www.jetbrains.com/pycharm/)
+- [Create Linode account](https://linode.com/)
 
 
 ## links to useful resources:
@@ -56,6 +57,9 @@ this project is by no means perfect, but I enjoyed making it and i hope you can 
 - Link to learn python video: [Free Code Camp youtube video](https://www.youtube.com/watch?v=rfscVS0vtbw&t=1957s)
 - Twilio docs: [Twilio](https://www.twilio.com/docs)
 - Python docs: [python.org](https://docs.python.org/3/)
+- Linux CLI explainer: [Explainshell.com](https://explainshell.com/)
+- Linode docs: [Linode](https://www.linode.com/docs/)
+
 
 ## Getting started:
 
