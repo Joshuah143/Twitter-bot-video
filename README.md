@@ -1,5 +1,5 @@
 # Twitterbot-video
-###### This is the repo that corrosponds with my upcoming youtube video.
+###### This is the repo that corresponds with my upcoming youtube video.
 
 In this prjoect you are going to create a twitter bot hosted in the cloud with Tweepy, Linode, and Twilio that sounds out a tweet everyday with an attached qoute. Then send you a confirmation text/email
 ### Project status:
@@ -40,11 +40,11 @@ In this prjoect you are going to create a twitter bot hosted in the cloud with T
 this project is by no means perfect, but I enjoyed making it and i hope you can learn a little from me along the way. Feel free to suggest changes or shoot me an email at [my email](mailto:joshua.himmens@gmail.com) or even if you want more content
 
 ## Needed links:
-- Create a Google account:
-- Create Twilio account: [Twilio](https://www.twilio.com/try-twilio)
-- Create a Twitter account:
-- Create a Twitter dev account:
-- Jetbrains IDE downlaod: 
+- [Create a Google account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp)
+- [Create Twilio account](https://www.twilio.com/try-twilio)
+- [Create a Twitter account:](https://twitter.com/i/flow/signup)
+- [Create a Twitter dev account:](https://developer.twitter.com/en/apply-for-access)
+- [Jetbrains IDE downlaod:](https://www.jetbrains.com/pycharm/)
 
 
 ## links to useful resources:
