@@ -1,7 +1,8 @@
 # Twitterbot-video
 ###### This is the repo that corresponds with my upcoming YouTube video.
 
-In this prjoect you are going to create a twitter bot hosted in the cloud with Tweepy, Linode, and Twilio that sounds out a tweet everyday with an attached qoute. Then send you a confirmation text/email
+In this prjoect you are going to create a twitter bot hosted in the cloud with Tweepy, Linode, and Twilio that sounds
+out a tweet everyday with an attached qoute. Then send you a confirmation text/email
 ### Project status:
 
 - [X] Create github
@@ -22,6 +23,10 @@ In this prjoect you are going to create a twitter bot hosted in the cloud with T
 - [ ] [Put it all together](youtube.com)
 - [ ] [Load into linode](youtube.com)
 
+# Where to start?
+You should start by takeing a look at the cummulative video. This will guide you through all of the actual code.
+If you dont know how to install and IDE (or even what in the hell that is) or how to set up an environment
+start by looking at the first two smaller videos than moving forwards.
 #### What do you need to know: (prerequisite knowledge)
 - How to install an IDE
 - How to install python on your local machine
@@ -61,6 +66,7 @@ or even if you want more content
 - Python docs: [python.org](https://docs.python.org/3/)
 - Linux CLI explainer: [Explainshell.com](https://explainshell.com/)
 - Linode docs: [Linode](https://www.linode.com/docs/)
+- Crontab Explainer: [Linuxiac.com](https://linuxiac.com/how-to-use-cron-to-schedule-tasks-the-complete-beginners-guide/#h-cron-command-entries)
 
 
 ## Getting started:
