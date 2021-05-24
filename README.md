@@ -9,7 +9,7 @@ In this prjoect you are going to create a twitter bot hosted in the cloud with T
 - [ ] Edit video
 - [ ] edit github
 - [ ] post video
-- [ ] success and fame
+- [ ] success and fame (or maybe just a pat on the back, hahah)
 
 #### See the full video at:
 - [Youtube link](jfcom.ca)
@@ -18,7 +18,7 @@ In this prjoect you are going to create a twitter bot hosted in the cloud with T
 - [ ] [Installing pycharm](youtube.com)
 - [ ] [Create files and enviroment](youtube.com)
 - [ ] [Plan/send tweet](youtube.com)
-- [ ] [Send email function](youtube.com)
+- [ ] [Send email/text function](youtube.com)
 - [ ] [Put it all together](youtube.com)
 - [ ] [Load into linode](youtube.com)
 
@@ -52,7 +52,7 @@ this project is by no means perfect, but I enjoyed making it and i hope you can 
 - Source of the qoutes: [Github repo](https://github.com/sumanto/goodreads-quotes/blob/master/quotes.json)
 - Link to tweepy docs: [Docs.tweepy.org](https://docs.tweepy.org/en/latest/index.html)
 - Link to real python tweepy guide: [Real python](https://realpython.com/twitter-bot-python-tweepy/)
-- Link to twitter api docs: [Twitter.com](https://developer.twitter.com/en/docs)
+- Link to Twitter api docs: [Twitter.com](https://developer.twitter.com/en/docs)
 - Link to learn python video: [Free Code Camp youtube video](https://www.youtube.com/watch?v=rfscVS0vtbw&t=1957s)
 - Twilio docs: [Twilio](https://www.twilio.com/docs)
 - Python docs: [python.org](https://docs.python.org/3/)
@@ -68,7 +68,10 @@ If you want to also to use twillio:
     pip install twilio
 
 If you are using the pycharm IDE you won't need to use either, follow the steps shown in the video to import the modules.
-
+## During your twitter bot project:
+- Rember you can pause to mess with the code however you want, thats half of learning
+- Use the docs and the videos liberaly if your unsure
+- Use the video as a first step into learning some more and creating your own projects
 ## How to go further:
 ###### These are some ideas for how you could go deeper into this project
 - Use dynamic data (e.g. Temp data, garden monitor)
