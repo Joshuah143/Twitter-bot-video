@@ -1,6 +1,6 @@
 import json
 import random
-
+print("test")
 with open('qoutes.json', 'r') as file:
     x = json.load(file)
 
