@@ -37,7 +37,9 @@ In this prjoect you are going to create a twitter bot hosted in the cloud with T
 - Using crontab
 - The bare bones of linode and VPS's in general
 
-this project is by no means perfect, but I enjoyed making it and i hope you can learn a little from me along the way. Feel free to suggest changes or shoot me an email at [my email](mailto:joshua.himmens@gmail.com) or even if you want more content
+This project is by no means perfect, but I enjoyed making it and I hope you can learn a little from me along the way.
+Feel free to suggest changes or shoot me an email at [joshua.himmens@gmail.com](mailto:joshua.himmens@gmail.com)
+or even if you want more content
 
 ## Needed links:
 - [Create a Google account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp)
@@ -84,4 +86,7 @@ If you are using the pycharm IDE you won't need to use either, follow the steps 
 - Send the quotes in a daily text or email
 - Import this file into other scripts to use functions like sending texts/emails/qoutes
 - Do something better than I did it and make your own YouTube video
-If you are able to come up with some cool projects or want advice on this one feel free to shoot me an email at [joshua.himmens@gmail.com](mailto:joshua.himmens@gmail.com)
+
+If you are able to come up with some cool projects or want advice on this one feel free to shoot me an email at
+[joshua.himmens@gmail.com](mailto:joshua.himmens@gmail.com)
+I really enjoyed making this and I would love nothing more than an email from somebody who actually followed along <3.
