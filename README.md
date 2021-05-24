@@ -1,8 +1,8 @@
-# Twitterbot-video
+# Twitter-Bot-Video
 ###### This is the repo that corresponds with my upcoming YouTube video.
 
-In this prjoect you are going to create a twitter bot hosted in the cloud with Tweepy, Linode, and Twilio that sounds
-out a tweet everyday with an attached qoute. Then send you a confirmation text/email
+In this project you are going to create a Twitter bot hosted in the cloud with Tweepy, Linode, and Twilio that sounds
+out a tweet every day with an attached quote. Then send you a confirmation text/email
 ### Project status:
 
 - [X] Create github
@@ -24,8 +24,8 @@ out a tweet everyday with an attached qoute. Then send you a confirmation text/e
 - [ ] [Load into linode](youtube.com)
 
 # Where to start?
-You should start by takeing a look at the cummulative video. This will guide you through all of the actual code.
-If you dont know how to install and IDE (or even what in the hell that is) or how to set up an environment
+You should start by taking a look at the cumulative video. This will guide you through all the actual code.
+If you don't know how to install and IDE (or even what in the hell that is) or how to set up an environment
 start by looking at the first two smaller videos than moving forwards.
 #### What do you need to know: (prerequisite knowledge)
 - How to install an IDE
@@ -75,14 +75,14 @@ This is what you need to run for the tweepy package:
 
     pip install tweepy
     
-If you want to also to use twillio:
+If you want to also use Twilio:
 
     pip install twilio
 
 If you are using the pycharm IDE you won't need to use either, follow the steps shown in the video to import the modules.
-## During your twitter bot project:
-- Rember you can pause to mess with the code however you want, thats half of learning
-- Use the docs and the videos liberaly if your unsure
+## During your Twitter bot project:
+- Remember you can pause to mess with the code however you want, thats half of learning
+- Use the docs and the videos liberally if your unsure
 - Use the video as a first step into learning some more and creating your own projects
 ## How to go further:
 ###### These are some ideas for how you could go deeper into this project
