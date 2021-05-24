@@ -11679,16 +11679,6 @@
 		"tags": []
 	},
 	{
-		"author": "أحلام مستغانمي",
-		"quote": "أجمل حب هو الذي نعثر عليه أثناء بحثنا عن شيء آخر",
-		"book": "",
-		"likes": 4566,
-		"tags": [
-			"love",
-			"حب"
-		]
-	},
-	{
 		"author": "Mark Twain",
 		"quote": "What would men be without women? Scarce, sir...mighty scarce.",
 		"book": "",
@@ -11750,13 +11740,6 @@
 			"inspirational",
 			"writing"
 		]
-	},
-	{
-		"author": "مصطفى محمود",
-		"quote": "لن تكون متدينا إلا بالعلم ...فالله لا يعبد بالجهل",
-		"book": "القرآن: محاولة لفهم عصري",
-		"likes": 4539,
-		"tags": []
 	},
 	{
 		"author": "Mary Wollstonecraft Shelley",
@@ -13776,15 +13759,6 @@
 		"book": "",
 		"likes": 4073,
 		"tags": []
-	},
-	{
-		"author": "أحمد خالد توفيق",
-		"quote": "أحيانًا يساعدنا الآخرون بأن يكونوا فى حياتنا فحسب",
-		"book": "",
-		"likes": 4072,
-		"tags": [
-			"life"
-		]
 	},
 	{
 		"author": "Patrick Ness",
@@ -17024,13 +16998,6 @@
 		]
 	},
 	{
-		"author": "أحمد خالد توفيق",
-		"quote": "أتمنى أن أبكي و أرتجف , التصق بواحد من الكبار , لكن الحقيقة القاسية هي أنك الكبار! .. أنت من يجب أن يمنح القوة و الأمن للآخرين!",
-		"book": "",
-		"likes": 3570,
-		"tags": []
-	},
-	{
 		"author": "Rumi",
 		"quote": "When I am with you, we stay up all night.When you're not here, I can't go to sleep.Praise God for those two insomnias!And the difference between them.",
 		"book": "",
@@ -18109,13 +18076,6 @@
 		"tags": []
 	},
 	{
-		"author": "غسان كنفاني",
-		"quote": "!لك شيء في هذا العالم.. فقم",
-		"book": "",
-		"likes": 3430,
-		"tags": []
-	},
-	{
 		"author": "Carlos Ruiz Zafon",
 		"quote": "Fools talk, cowards are silent, wise men listen.",
 		"book": "The Shadow of the Wind",
@@ -18811,13 +18771,6 @@
 		]
 	},
 	{
-		"author": "مصطفى محمود",
-		"quote": "و كلما أمسكت بحالة من حالاتي و قلت هذا هو أنا .. ما تلبث هذه الحالة أن تفلت من أصابعي و تحل محلها حالة أخرى .. هي أنا .. أيضاً..",
-		"book": "لغز الموت",
-		"likes": 3336,
-		"tags": []
-	},
-	{
 		"author": "Sarah Dessen",
 		"quote": "It's all in the view. That's what I mean about forever, too. For any one of us our forever could end in an hour, or a hundred years from now. You never know for sure, so you'd better make every second count.",
 		"book": "The Truth About Forever",
@@ -18917,13 +18870,6 @@
 		"quote": "But who can say what's best? That's why you need to grab whatever chance you have of happiness where you find it, and not worry about other people too much. My experience tells me that we get no more than two or three such chances in a life time, and if we let them go, we regret it for the rest of our lives.",
 		"book": "Norwegian Wood",
 		"likes": 3329,
-		"tags": []
-	},
-	{
-		"author": "أحلام مستغانمي",
-		"quote": "أحسد الأطفال الرضّع، لأنهم يملكون وحدهم حق الصراخ والقدرة عليه، قبل أن تروض الحياة حبالهم الصوتية، وتعلِّمهم الصمت",
-		"book": "ذاكرة الجسد",
-		"likes": 3327,
 		"tags": []
 	},
 	{
@@ -20979,15 +20925,6 @@
 		]
 	},
 	{
-		"author": "أحمد خالد توفيق",
-		"quote": "إن المرأة تحب رجلها ليس لأنه أقوى الرجال، و لا أوسمهم، و لا أغناهم، بل لأنه هو.. بضعفه و قوته.. و الحب ليس إستعراض قوة لكنه طاقة عطاء دافئة مستمرة",
-		"book": "",
-		"likes": 3110,
-		"tags": [
-			"life"
-		]
-	},
-	{
 		"author": "Honore de Balzac",
 		"quote": "Reading brings us unknown friends",
 		"book": "",
@@ -21736,13 +21673,6 @@
 			"humor",
 			"prank"
 		]
-	},
-	{
-		"author": "محمود درويش",
-		"quote": "و كن من أنتَ حيث تكون و احمل عبءَ قلبِكَ وحدهُ",
-		"book": "",
-		"likes": 3025,
-		"tags": []
 	},
 	{
 		"author": "W.B. Yeats",
@@ -22775,13 +22705,6 @@
 		"quote": "Burdens are for shoulders strong enough to carry them.",
 		"book": "Gone with the Wind",
 		"likes": 2920,
-		"tags": []
-	},
-	{
-		"author": "مصطفى محمود",
-		"quote": "الكراهية تكلف أكثر من الحب.. لأنها إحساس غير طبيعي.. إحساس عكسي مثل حركة الأجسام ضد جاذبية الأرض.. تحتاج إلى قوة إضافية وتستهلك وقوداً أكثر",
-		"book": "في الحب والحياة",
-		"likes": 2919,
 		"tags": []
 	},
 	{
@@ -24510,13 +24433,6 @@
 		"tags": [
 			"kindness"
 		]
-	},
-	{
-		"author": "أحلام مستغانمي",
-		"quote": "أي علم هذا الذي لم يستطع حتى الآن أن يضع أصوات من نحب في أقراص ، أو زجاجة دواء نتناولها سرًّا ، عندما نصاب بوعكة عاطفية بدون أن يدري صاحبها كم نحن نحتاجه",
-		"book": "عابر سرير",
-		"likes": 2772,
-		"tags": []
 	},
 	{
 		"author": "Tom Robbins",
@@ -26653,13 +26569,6 @@
 		]
 	},
 	{
-		"author": "عباس محمود العقاد",
-		"quote": "ليس هناك كتابا أقرأه و لا أستفيد منه شيئا جديدا ، فحتى الكتاب التافه أستفيد من قراءته ، أني تعلمت شيئا جديدا هو ما هي التفاهة ؟ و كيف يكتب الكتاب التافهون ؟ و فيم يفكرون ؟",
-		"book": "",
-		"likes": 2598,
-		"tags": []
-	},
-	{
 		"author": "Laurie Halse Anderson",
 		"quote": "In one aspect, yes, I believe in ghosts, but we create them. We haunt ourselves.",
 		"book": "Wintergirls",
@@ -27791,13 +27700,6 @@
 		"tags": [
 			"books-bible"
 		]
-	},
-	{
-		"author": "جبران خليل جبران",
-		"quote": "لا تجالس أنصاف العشاق، ولا تصادق أنصاف الأصدقاء، لا تقرأ لأنصاف الموهوبين،لا تعش نصف حياة، ولا تمت نصف موت،لا تختر نصف حل، ولا تقف في منتصف الحقيقة، لا تحلم نصف حلم، ولا تتعلق بنصف أمل، إذا صمتّ.. فاصمت حتى النهاية، وإذا تكلمت.. فتكلّم حتى النهاية، لا تصمت كي تتكلم، ولا تتكلم كي تصمت. إذا رضيت فعبّر عن رضاك، لا تصطنع نصف رضا، وإذا رفضت.. فعبّر عن رفضك، لأن نصف الرفض قبول.. النصف هو حياة لم تعشها، وهو كلمة لم تقلها،وهو ابتسامة أجّلتها، وهو حب لم تصل إليه، وهو صداقة لم تعرفها.. النصف هو ما يجعلك غريباً عن أقرب الناس إليك، وهو ما يجعل أقرب الناس إليك غرباء عنك. النصف هو أن تصل وأن لاتصل، أن تعمل وأن لا تعمل،أن تغيب وأن تحضر.. النصف هو أنت، عندما لا تكون أنت.. لأنك لم تعرف من أنت، النصف هو أن لا تعرف من أنت.. ومن تحب ليس نصفك الآخر.. هو أنت في مكان آخر في الوقت نفسه. نصف شربة لن تروي ظمأك، ونصف وجبة لن تشبع جوعك،نصف طريق لن يوصلك إلى أي مكان، ونصف فكرة لن تعطي لك نتيجة النصف هو لحظة عجزك وأنت لست بعاجز.. لأنك لست نصف إنسان. أنت إنسان وجدت كي تعيش الحياة، وليس كي تعيش نصف حياة ليست حقيقة الإنسان بما يظهره لك.. بل بما لا يستطيع أن يظهره، لذلك.. إذا أردت أن تعرفه فلا تصغي إلى ما يقوله .. بل إلى ما لا يقوله.",
-		"book": "",
-		"likes": 2512,
-		"tags": []
 	},
 	{
 		"author": "Judith McNaught",
@@ -29534,13 +29436,6 @@
 		]
 	},
 	{
-		"author": "أحلام مستغانمي",
-		"quote": "الحداد ليس في ما نرتديه بل في ما نراه . إنّه يكمن في نظرتناللأشياء . بإمكان عيون قلبنا أن تكون في حداد... ولا أحد يدري بذلك",
-		"book": "الأسود يليق بك",
-		"likes": 2397,
-		"tags": []
-	},
-	{
 		"author": "C.G. Jung",
 		"quote": "Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.",
 		"book": "",
@@ -29796,13 +29691,6 @@
 		"author": "E.E. Cummings",
 		"quote": "I will take the sun in my mouthand leap into the ripe air Alive with closed eyesto dash against darkness",
 		"book": "Poems, 1923-1954",
-		"likes": 2383,
-		"tags": []
-	},
-	{
-		"author": "جلال الدين الرومي",
-		"quote": "لا تجزع من جرحك، وإلا فكيف للنور أن يتسلل إلى باطنك؟",
-		"book": "",
 		"likes": 2383,
 		"tags": []
 	},
@@ -30261,15 +30149,6 @@
 			"comedy",
 			"elizabethan",
 			"robin-goodfellow"
-		]
-	},
-	{
-		"author": "عمر طاهر",
-		"quote": "مش مهم انك تغير الكون... المهم انك تخلي الكون ما يغيركش",
-		"book": "",
-		"likes": 2356,
-		"tags": [
-			"inspirational"
 		]
 	},
 	{
@@ -31132,13 +31011,6 @@
 		"author": "A.A. Milne",
 		"quote": "I'm not lost for I know where I am. But however, where I am may be lost.",
 		"book": "Winnie-the-Pooh",
-		"likes": 2309,
-		"tags": []
-	},
-	{
-		"author": "أحمد خالد توفيق",
-		"quote": "أسوء تعذيب فى العالم هو الشخص المُصر على الكلام بينما أنت مُثقل بالهموم , ترغب فى أن تبقى صامتاً وأن تصغى لأفكارك.",
-		"book": "",
 		"likes": 2309,
 		"tags": []
 	},

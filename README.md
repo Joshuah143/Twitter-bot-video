@@ -1,18 +1,25 @@
 # Twitterbot-video
 ###### This is the repo that corrosponds with my upcoming youtube video.
 
-In this prjoect you are going to create a twitter bot hosted in the cloud that sounds out a tweet everyday with an attached qoute. Then send you a confirmation text/email
+In this prjoect you are going to create a twitter bot hosted in the cloud with Tweepy, Linode, and Twilio that sounds out a tweet everyday with an attached qoute. Then send you a confirmation text/email
 ### Project status
 
 - [X] Create github
-- [ ] Create video
+- [ ] Create video(s)
 - [ ] Edit video
 - [ ] edit github
 - [ ] post video
 - [ ] success and fame
 
-#### See the video at:
-- [Youtube link](youtube.com)
+#### See the full video at:
+- [Youtube link](jfcom.ca)
+#### Video planning (with links to sub videos):
+- [ ] [Installing pycharm](youtube.com)
+- [ ] [Create files and enviroment](youtube.com)
+- [ ] [Plan/send tweet](youtube.com)
+- [ ] [Send email function](youtube.com)
+- [ ] [Put it all together](youtube.com)
+- [ ] [Load into linode](youtube.com)
 
 #### What do you need to know: (prerequisite knowledge)
 - How to install an IDE
@@ -36,6 +43,8 @@ this project is by no means perfect, but I enjoyed making it and i hope you can 
 - Create Twilio account: [Twilio](https://www.twilio.com/try-twilio)
 - Create a Twitter account:
 - Create a Twitter dev account:
+- Jetbrains IDE downlaod: 
+
 
 ## links to useful resources:
 
@@ -67,3 +76,4 @@ If you are using the pycharm IDE you won't need to use either, follow the steps 
 - Send the quotes in a daily text or email
 - Import this file into other scripts to use functions like sending texts/emails/qoutes
 - Do something better than I did it and make your own YouTube video
+If you are able to come up with some cool projects or want advice on this one feel free to shoot me an email at [joshua.himmens@gmail.com](mailto:joshua.himmens@gmail.com)
