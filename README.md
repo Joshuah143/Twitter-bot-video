@@ -5,7 +5,6 @@ In this project you are going to create a Twitter bot hosted in the cloud with T
 out a tweet every day with an attached quote. Then send you a confirmation text/email
 ### Project status:
 
-# wowb
 
 - [X] Create github
 - [ ] Create video(s)
@@ -17,7 +16,6 @@ out a tweet every day with an attached quote. Then send you a confirmation text/
 #### See the full video at:
 - [Youtube link](jfcom.ca)
 
-# wow2
 
 #### Video planning (with links to sub videos):
 - [X] [Installing pycharm](youtube.com)
