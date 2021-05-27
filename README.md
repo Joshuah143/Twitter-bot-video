@@ -5,7 +5,7 @@ In this project you are going to create a Twitter bot hosted in the cloud with T
 out a tweet every day with an attached quote. Then send you a confirmation text/email
 ### Project status:
 
-# wow
+# wowb
 
 - [X] Create github
 - [ ] Create video(s)
