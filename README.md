@@ -15,6 +15,8 @@ out a tweet every day with an attached quote. Then send you a confirmation text/
 #### See the full video at:
 - [Youtube link](jfcom.ca)
 
+# wow2
+
 #### Video planning (with links to sub videos):
 - [X] [Installing pycharm](youtube.com)
 - [X] [Create files and enviroment](youtube.com)
