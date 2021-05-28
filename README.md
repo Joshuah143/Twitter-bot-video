@@ -51,9 +51,9 @@ or even if you want more content
 ## Needed links:
 - [Create a Google account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp)
 - [Create Twilio account](https://www.twilio.com/try-twilio)
-- [Create a Twitter account:](https://twitter.com/i/flow/signup)
-- [Create a Twitter dev account:](https://developer.twitter.com/en/apply-for-access)
-- [Jetbrains IDE download:](https://www.jetbrains.com/pycharm/)
+- [Create a Twitter account](https://twitter.com/i/flow/signup)
+- [Create a Twitter dev account](https://developer.twitter.com/en/apply-for-access)
+- [Jetbrains IDE download](https://www.jetbrains.com/pycharm/)
 - [Create Linode account](https://linode.com/)
 
 
