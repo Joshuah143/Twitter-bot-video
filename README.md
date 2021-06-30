@@ -1,6 +1,8 @@
 # Twitter-Bot-Video
 ###### This is the repo that corresponds with my upcoming YouTube video.
 
+# My bad for not doing this, it will get done it is just gonna take a long time cause im busy
+
 In this project you are going to create a Twitter bot hosted in the cloud with Tweepy, Linode, and Twilio that sounds
 out a tweet every day with an attached quote. Then send you a confirmation text/email
 ### Project status:
